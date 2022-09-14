@@ -50,7 +50,7 @@ aws ecr create-repository --repository-name rest-api --image-scanning-configurat
 Local docker image tagging
 
 ```
-docker tag TerraformEcsProject:latest <aws_account>.dkr.ecr.us-east-2.amazonaws.com/TerraformEcsProject:version1
+docker tag TerraformEcsProject:version1 <aws_account>.dkr.ecr.us-east-2.amazonaws.com/TerraformEcsProject:version1
 ```
 
 Check and Push
