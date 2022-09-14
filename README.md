@@ -2,6 +2,9 @@
 
 How we can create a Python Hello World project deploy the docker image, how we can push the Amazon ECR and deploy the Amazon ECS. 
 
+<img src="chart.png"  width="730" height="400">
+
+
 
 ### Dockerize the Project
 
