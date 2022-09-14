@@ -1,6 +1,6 @@
 # Terraform_ECS_Python
 
-How we can create a Python project deploy the docker image, how we can push the Amazon ECR and deploy the Amazon ECS. 
+How we can create a Python Hello World project deploy the docker image, how we can push the Amazon ECR and deploy the Amazon ECS. 
 
 
 ### Dockerize the Project
